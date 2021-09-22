@@ -1,13 +1,28 @@
 header{
-    color: #DCEDC8;
+    color: wheat;
+    font-size: 30px;
+    text-align: center;
+    font-family: ;
 }
 body{
-   background color: #009688;
+   background-color: black;
 }
 .headers {
-    font-size: 15px;
-    color: #dcedc8;
+    font-size: 25px;
+    font-family: ;
 }
 .frog {
-    background color: #8BC34A;
+    background-color: #DDF9C1;
+    font-size: 15px;
+    margin: 20px 20px 20px 20px;
+}
+.axolotl {
+    background-color: #EFB0A1;
+    font-size: 15px;
+    margin: 20px 20px 20px 20px;
+}
+.snake {
+    background-color: #f3a37d;
+    font-size: 15px;
+    margin: 20px 20px 20px 20px;
 }
