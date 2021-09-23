@@ -1,8 +1,8 @@
-header{
+.header {
     color: wheat;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
-    font-family: ;
+    font-family:font-family: 'Bebas Neue', cursive;
 }
 body{
    background-color: black;
@@ -11,18 +11,25 @@ body{
     font-size: 25px;
     font-family: ;
 }
+.body {
+    font-size: 15px;
+    text-align: center;
+}
 .frog {
     background-color: #DDF9C1;
-    font-size: 15px;
     margin: 20px 20px 20px 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
 }
 .axolotl {
     background-color: #EFB0A1;
-    font-size: 15px;
     margin: 20px 20px 20px 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
 }
 .snake {
     background-color: #f3a37d;
-    font-size: 15px;
     margin: 20px 20px 20px 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
 }
