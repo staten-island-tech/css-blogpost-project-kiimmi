@@ -1,35 +1,41 @@
 .header {
     color: wheat;
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
-    font-family:font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    font-family: 'Roboto Mono', monospace;
 }
 body{
    background-color: black;
 }
 .headers {
-    font-size: 25px;
+    font-size: 50px;
     font-family: ;
 }
-.body {
-    font-size: 15px;
+
+.post{
+    margin: 100px 200px 100px 200px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    font-size: 30px;
     text-align: center;
+    font-family: 'Cairo', sans-serif;
 }
 .frog {
     background-color: #DDF9C1;
-    margin: 20px 20px 20px 20px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    color: #215c29;
 }
+
 .axolotl {
     background-color: #EFB0A1;
-    margin: 20px 20px 20px 20px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    color: #822637;
 }
+
 .snake {
     background-color: #f3a37d;
-    margin: 20px 20px 20px 20px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    color: #732e0e;
+}
+.post-pics {
+    height: 500px;
 }
